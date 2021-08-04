@@ -3,5 +3,5 @@
 module.exports = ora;
 
 function ora() {
-    // TODO
+    return "funzione ora"
 }
