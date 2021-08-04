@@ -1,0 +1,16 @@
+{
+  "name": "@jalai/all",
+  "private": false,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alai-arpas/jalai.git"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "monorepos"
+  ]
+}
