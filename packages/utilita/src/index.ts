@@ -1,4 +1,5 @@
 
-const nome = "Andrea Lai";
+export const nome = "Andrea Lai";
 
-export default nome;
+export const due = "Zwei";
+
