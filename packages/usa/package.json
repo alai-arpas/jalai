@@ -1,6 +1,6 @@
 {
   "name": "@jalai/usa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "usa altre librerie jalai",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,6 @@
   "author": "Andrea Lai",
   "license": "ISC",
   "dependencies": {
-    "@jalai/utilita": "^1.0.0"
+    "@jalai/utilita": "^1.0.1"
   }
 }
