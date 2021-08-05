@@ -2,10 +2,12 @@
   "name": "@jalai/usa",
   "version": "1.0.0",
   "description": "usa altre librerie jalai",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc -w --"
+    "start": "tsc -w --preserveWatchOutput",
+    "cli": "node dist/index.js"
   },
   "author": "Andrea Lai",
   "license": "ISC",

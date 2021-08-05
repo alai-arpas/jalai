@@ -1,1 +1,3 @@
-console.log("hi from @jlai/usa")
+import {nome, due} from '@jalai/utilita';
+
+console.log(nome + due)
