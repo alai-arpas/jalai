@@ -12,5 +12,8 @@
     "typescript",
     "react",
     "monorepos"
-  ]
+  ],
+  "scripts": {
+    "start": "lerna run start --parallel"
+  }
 }
