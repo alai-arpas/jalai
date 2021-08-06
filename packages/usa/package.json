@@ -12,6 +12,7 @@
   "author": "Andrea Lai",
   "license": "ISC",
   "dependencies": {
+    "@jalai/esri-rest": "^1.0.2",
     "@jalai/utilita": "^1.0.2"
   }
 }

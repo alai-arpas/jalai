@@ -1,0 +1,24 @@
+{
+  "name": "@jalai/esri-rest",
+  "version": "1.0.2",
+  "description": "esri api rest",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc -w --preserveWatchOutput"
+  },
+  "author": "Andrea Lai",
+  "license": "ISC",
+  "dependencies": {
+    "@esri/arcgis-rest-auth": "^3.2.1",
+    "@esri/arcgis-rest-request": "^3.2.1",
+    "cross-fetch": "^3.1.4",
+    "isomorphic-form-data": "^2.0.0",
+    "node-fetch": "^2.5.1"
+  },
+  "devDependencies": {
+    "@types/isomorphic-form-data": "^2.0.0",
+    "@types/node-fetch": "^2.5.1"
+  }
+}

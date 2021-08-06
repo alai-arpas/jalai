@@ -1,5 +1,5 @@
 
 export const nome = "Andrea Lai";
 
-export const due = "Zwei und ";
+export const due = "SECONDO";
 
